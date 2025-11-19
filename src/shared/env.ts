@@ -17,5 +17,11 @@ export default {
       refreshToken: env.get('HOWWEFEEL_REFRESH_TOKEN').required().asString(),
       userId: env.get('HOWWEFEEL_USER_ID').required().asString(),
     },
+    lastfm: {
+      apiKey: env.get('LASTFM_API_KEY').required().asString(),
+      apiSecret: env.get('LASTFM_API_SECRET').required().asString(),
+      token: env.get('LASTFM_TOKEN').required().asString(),
+      username: env.get('LASTFM_USERNAME').required().asString(),
+    },
   },
 }
