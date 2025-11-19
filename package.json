@@ -1,0 +1,30 @@
+{
+  "name": "nikapi",
+  "type": "module",
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.13.1+sha512.37ebf1a5c7a30d5fabe0c5df44ee8da4c965ca0c5af3dbab28c3a1681b70a256218d05c81c9c0dcf767ef6b8551eb5b960042b9ed4300c59242336377e01cfad",
+  "description": "Silly API for my website",
+  "author": {
+    "name": "nikakasd",
+    "url": "https://github.com/nikakasd"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development tsx --watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@fuman/fetch": "^0.2.0",
+    "@hono/node-server": "^1.19.6",
+    "@hono/swagger-ui": "^0.5.2",
+    "@hono/zod-openapi": "^1.1.4",
+    "env-var": "^7.5.0",
+    "hono": "^4.10.6",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.16.2",
+    "@types/node": "^22.16.3",
+    "cross-env": "^7.0.3",
+    "eslint": "^9.31.0"
+  }
+}

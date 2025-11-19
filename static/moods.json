@@ -1,0 +1,3525 @@
+{
+  "a8b69be7-4ede-45bf-ba2c-e96a4a2989c7": {
+    "id": "a8b69be7-4ede-45bf-ba2c-e96a4a2989c7",
+    "name": "comfortable",
+    "tile": {
+      "y": 9,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -0.6363636363636364,
+    "description": "feeling reassured both in mind and body"
+  },
+  "c24a3aec-fdda-40cf-8d82-b16377830f6b": {
+    "id": "c24a3aec-fdda-40cf-8d82-b16377830f6b",
+    "name": "accomplished",
+    "tile": {
+      "y": 5,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 0.09090909090909091,
+    "description": "feeling effective and successful"
+  },
+  "b952b62f-8e0e-4303-ad2c-37836c3e3f56": {
+    "id": "b952b62f-8e0e-4303-ad2c-37836c3e3f56",
+    "name": "troubled",
+    "tile": {
+      "y": 5,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 0.09090909090909091,
+    "description": "feeling worried about a problem or conflict"
+  },
+  "3d9ace7d-061e-4d5c-b941-5ee2e2c1edee": {
+    "id": "3d9ace7d-061e-4d5c-b941-5ee2e2c1edee",
+    "name": "nervous",
+    "tile": {
+      "y": 5,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 0.09090909090909091,
+    "description": "jumpy and worried about the future or an uncertain event"
+  },
+  "47a03a35-2fac-476c-98e9-0977f19215a4": {
+    "id": "47a03a35-2fac-476c-98e9-0977f19215a4",
+    "name": "furious",
+    "tile": {
+      "y": 2,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 0.6363636363636364,
+    "description": "full of extreme or wild anger"
+  },
+  "001d9c60-fb5f-4117-8250-be3c3b7e2a42": {
+    "id": "001d9c60-fb5f-4117-8250-be3c3b7e2a42",
+    "name": "inspired",
+    "tile": {
+      "y": 1,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 0.8181818181818182,
+    "description": "affected powerfully by something in a way that motivates you to do something"
+  },
+  "e8f30860-c637-4287-bb2e-6df786cde6a6": {
+    "id": "e8f30860-c637-4287-bb2e-6df786cde6a6",
+    "name": "accepted",
+    "tile": {
+      "y": 9,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -0.6363636363636364,
+    "description": "feeling acknowledged and seen"
+  },
+  "abf8cc1d-99a2-4eed-a129-c617c80a4b2f": {
+    "id": "abf8cc1d-99a2-4eed-a129-c617c80a4b2f",
+    "name": "pressured",
+    "tile": {
+      "y": 1,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 0.8181818181818182,
+    "description": "feeling as if an important outcome depends on you"
+  },
+  "5e1dcdba-1b0c-46c1-8942-147bcae071a9": {
+    "id": "5e1dcdba-1b0c-46c1-8942-147bcae071a9",
+    "name": "irritated",
+    "tile": {
+      "y": 2,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 0.6363636363636364,
+    "description": "slightly angry with or annoyed by an action or event"
+  },
+  "cda8bd23-4659-4b5b-91de-24e4a0443ac2": {
+    "id": "cda8bd23-4659-4b5b-91de-24e4a0443ac2",
+    "name": "sympathetic",
+    "tile": {
+      "y": 9,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -0.6363636363636364,
+    "description": "feeling sorry or sorrowful for someone else"
+  },
+  "4a5acd06-0f4d-43a7-9a77-88abff5f8216": {
+    "id": "4a5acd06-0f4d-43a7-9a77-88abff5f8216",
+    "name": "focused",
+    "tile": {
+      "y": 4,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 0.2727272727272727,
+    "description": "engaged in only one idea or activity"
+  },
+  "e7aa7d27-2007-4328-8e2b-177566cd2896": {
+    "id": "e7aa7d27-2007-4328-8e2b-177566cd2896",
+    "name": "blissful",
+    "tile": {
+      "y": 6,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -0.09090909090909091,
+    "description": "feeling full of joy"
+  },
+  "db55ad3c-f709-44e5-9b5d-376dfd8af047": {
+    "id": "db55ad3c-f709-44e5-9b5d-376dfd8af047",
+    "name": "enraged",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 1.0,
+    "description": "made furious by something; filled with extreme anger"
+  },
+  "bfa3b53b-f524-4a61-a9a3-808094912a78": {
+    "id": "bfa3b53b-f524-4a61-a9a3-808094912a78",
+    "name": "bored",
+    "tile": {
+      "y": 6,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.09090909090909091,
+    "description": "lacking interest in something or someone"
+  },
+  "b098e223-8937-42de-bac8-848bf15ba82a": {
+    "id": "b098e223-8937-42de-bac8-848bf15ba82a",
+    "name": "blessed",
+    "tile": {
+      "y": 10,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -0.8181818181818182,
+    "description": "feeling thankful and fortunate for what you have"
+  },
+  "edbbd31c-6257-45d3-8ddf-0382667b153b": {
+    "id": "edbbd31c-6257-45d3-8ddf-0382667b153b",
+    "name": "determined",
+    "tile": {
+      "y": 1,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 0.8181818181818182,
+    "description": "knowing what you want and not letting anything stand in the way"
+  },
+  "45a2d88a-a9f1-4338-8a08-e2c03362e5f3": {
+    "id": "45a2d88a-a9f1-4338-8a08-e2c03362e5f3",
+    "name": "thrilled",
+    "tile": {
+      "y": 0,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 1.0,
+    "description": "feeling very excited all of a sudden"
+  },
+  "10bd74b9-00de-4e7e-bec4-e0172626022d": {
+    "id": "10bd74b9-00de-4e7e-bec4-e0172626022d",
+    "name": "disengaged",
+    "tile": {
+      "y": 9,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.6363636363636364,
+    "description": "feeling like you cannot focus; disinterested"
+  },
+  "a17fb374-32bd-4bfd-be9a-e99cba570f9f": {
+    "description": "feeling confused or astounded by an event",
+    "energy": 1.0,
+    "id": "a17fb374-32bd-4bfd-be9a-e99cba570f9f",
+    "tile": {
+      "y": 0,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "name": "stunned"
+  },
+  "4d861986-21c4-45aa-a7dc-241f9f36f482": {
+    "id": "4d861986-21c4-45aa-a7dc-241f9f36f482",
+    "name": "jittery",
+    "tile": {
+      "y": 3,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 0.45454545454545453,
+    "description": "feeling on edge and jumpy"
+  },
+  "efaa69ac-a13e-4224-8a95-1342c0e8f957": {
+    "id": "efaa69ac-a13e-4224-8a95-1342c0e8f957",
+    "name": "exhilarated",
+    "tile": {
+      "y": 0,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 1.0,
+    "description": "in high spirits; cheerful and invigorated"
+  },
+  "c18f7e66-d365-49f2-96a8-12bf6a6c4b97": {
+    "id": "c18f7e66-d365-49f2-96a8-12bf6a6c4b97",
+    "name": "irate",
+    "tile": {
+      "y": 1,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 0.8181818181818182,
+    "description": "feeling like your anger is almost out of control"
+  },
+  "b706f493-cfc7-4732-93bf-90e7864b2dd5": {
+    "id": "b706f493-cfc7-4732-93bf-90e7864b2dd5",
+    "name": "heard",
+    "description": "feeling listened to",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "398e26f4-809f-4970-938a-0455e3a68265": {
+    "id": "398e26f4-809f-4970-938a-0455e3a68265",
+    "name": "excited",
+    "tile": {
+      "y": 1,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 0.8181818181818182,
+    "description": "enthusiastic about something in the future"
+  },
+  "daeae1ab-5a4e-474b-b154-6a5e915cbf21": {
+    "id": "daeae1ab-5a4e-474b-b154-6a5e915cbf21",
+    "name": "frustrated",
+    "tile": {
+      "y": 4,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 0.2727272727272727,
+    "description": "upset because you cannot do something you want to do"
+  },
+  "2a54be64-8963-4101-9c1a-2afd0c0e2434": {
+    "id": "2a54be64-8963-4101-9c1a-2afd0c0e2434",
+    "name": "discouraged",
+    "tile": {
+      "y": 9,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -0.6363636363636364,
+    "description": "feeling a loss of confidence and enthusiasm"
+  },
+  "a8016108-303d-4177-87aa-e8b6c315a77b": {
+    "id": "a8016108-303d-4177-87aa-e8b6c315a77b",
+    "name": "happy",
+    "tile": {
+      "y": 3,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 0.45454545454545453,
+    "description": "very pleased and filled with joy"
+  },
+  "5f69f4b1-e48d-4312-94d9-36906d51fc39": {
+    "id": "5f69f4b1-e48d-4312-94d9-36906d51fc39",
+    "name": "respected",
+    "tile": {
+      "y": 6,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -0.09090909090909091,
+    "description": "feeling like people think highly of you"
+  },
+  "52091d80-fad1-47f7-b3c9-8d779a3d4c23": {
+    "id": "52091d80-fad1-47f7-b3c9-8d779a3d4c23",
+    "name": "productive",
+    "tile": {
+      "y": 2,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 0.6363636363636364,
+    "description": "feeling like you are accomplishing your tasks or achieving your goals"
+  },
+  "7d973b7f-f7a5-4965-9088-fb280b98f50a": {
+    "id": "7d973b7f-f7a5-4965-9088-fb280b98f50a",
+    "name": "content",
+    "tile": {
+      "y": 9,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -0.6363636363636364,
+    "description": "feeling complete and like you are enough"
+  },
+  "1cb4aac5-48a5-4ff4-8e3d-ef5ac120f125": {
+    "id": "1cb4aac5-48a5-4ff4-8e3d-ef5ac120f125",
+    "name": "upbeat",
+    "tile": {
+      "y": 3,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 0.45454545454545453,
+    "description": "feeling high energy and bubbly"
+  },
+  "b9614839-7917-4331-a071-6c41e23eb1d6": {
+    "id": "b9614839-7917-4331-a071-6c41e23eb1d6",
+    "name": "fomo",
+    "tile": {
+      "y": 3,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 0.45454545454545453,
+    "description": "fear of missing out"
+  },
+  "e901dd91-b7b5-4939-8d08-cf55d034d954": {
+    "id": "e901dd91-b7b5-4939-8d08-cf55d034d954",
+    "name": "down",
+    "tile": {
+      "y": 6,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -0.09090909090909091,
+    "description": "feeling sad and like you have little energy"
+  },
+  "9a36d277-5ff8-4586-8c54-81383f9fd2c5": {
+    "id": "9a36d277-5ff8-4586-8c54-81383f9fd2c5",
+    "name": "confused",
+    "tile": {
+      "y": 3,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 0.45454545454545453,
+    "description": "feeling unable to make sense of something"
+  },
+  "27f578ec-d43f-4644-8b8c-06cac7800b63": {
+    "id": "27f578ec-d43f-4644-8b8c-06cac7800b63",
+    "name": "helpless",
+    "tile": {
+      "y": 11,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -1.0,
+    "description": "feeling like there's nothing you can do"
+  },
+  "9b387031-1427-48bf-a573-941e24bee5e9": {
+    "id": "9b387031-1427-48bf-a573-941e24bee5e9",
+    "name": "tired",
+    "tile": {
+      "y": 7,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.2727272727272727,
+    "description": "feeling like you need to rest"
+  },
+  "07b18c42-3093-468e-bf89-8beb2997e1ae": {
+    "id": "07b18c42-3093-468e-bf89-8beb2997e1ae",
+    "name": "terrified",
+    "tile": {
+      "y": 0,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 1.0,
+    "description": "consumed by fear"
+  },
+  "3f8100bd-c90f-4f78-a349-4d92d5f96f36": {
+    "id": "3f8100bd-c90f-4f78-a349-4d92d5f96f36",
+    "name": "panicked",
+    "tile": {
+      "y": 0,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 1.0,
+    "description": "feeling frantic and overcome by fear"
+  },
+  "d6387ad7-bb07-416a-84b9-1b0da9651d24": {
+    "id": "d6387ad7-bb07-416a-84b9-1b0da9651d24",
+    "name": "compassionate",
+    "tile": {
+      "y": 8,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -0.45454545454545453,
+    "description": "showing care and concern for someone"
+  },
+  "36ff8a1a-1190-4be5-aeab-94dc0738647f": {
+    "id": "36ff8a1a-1190-4be5-aeab-94dc0738647f",
+    "name": "pessimistic",
+    "tile": {
+      "y": 8,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -0.45454545454545453,
+    "description": "having a negative outlook and expecting the worst to happen"
+  },
+  "a6ac6219-9702-4ff7-bb7c-1327c8aec9ef": {
+    "description": "feeling delicate and like you could easily break",
+    "energy": -1.0,
+    "id": "a6ac6219-9702-4ff7-bb7c-1327c8aec9ef",
+    "tile": {
+      "y": 11,
+      "x": 8
+    },
+    "pleasantness": -0.45454545454545453,
+    "name": "fragile"
+  },
+  "92d724a2-c33f-4965-b737-ef19febc3e70": {
+    "id": "92d724a2-c33f-4965-b737-ef19febc3e70",
+    "name": "joyful",
+    "tile": {
+      "y": 2,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 0.6363636363636364,
+    "description": "feeling pleasure and in high spirits"
+  },
+  "f2dd8c8c-cc11-452e-be1d-fde04687bfd1": {
+    "description": "feeling intense engagement and commitment to someone or something",
+    "energy": 0.8181818181818182,
+    "id": "f2dd8c8c-cc11-452e-be1d-fde04687bfd1",
+    "tile": {
+      "y": 1,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "name": "passionate"
+  },
+  "318f3db4-de46-4fe6-ad14-189437e0301f": {
+    "id": "318f3db4-de46-4fe6-ad14-189437e0301f",
+    "name": "stressed",
+    "tile": {
+      "y": 1,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 0.8181818181818182,
+    "description": "strained mentally or emotionally from too many demands and not enough resources"
+  },
+  "42226f0a-030c-45b5-963b-d90a553b1571": {
+    "id": "42226f0a-030c-45b5-963b-d90a553b1571",
+    "name": "eager",
+    "tile": {
+      "y": 2,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 0.6363636363636364,
+    "description": "impatiently wanting to do or get something"
+  },
+  "5d3055b2-a047-4ad1-b018-db2fc55566ab": {
+    "id": "5d3055b2-a047-4ad1-b018-db2fc55566ab",
+    "name": "contempt",
+    "tile": {
+      "y": 5,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 0.09090909090909091,
+    "description": "feeling a combination of anger and disgust"
+  },
+  "e678fec9-d550-4965-bfa8-ec87df1b57c9": {
+    "id": "e678fec9-d550-4965-bfa8-ec87df1b57c9",
+    "name": "annoyed",
+    "tile": {
+      "y": 1,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 0.8181818181818182,
+    "description": "bothered by something displeasing or uncomfortable"
+  },
+  "b992499e-19b5-4d9b-8295-f07dfc86c4c0": {
+    "id": "b992499e-19b5-4d9b-8295-f07dfc86c4c0",
+    "name": "pleasant",
+    "tile": {
+      "y": 4,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 0.2727272727272727,
+    "description": "feeling mostly positive"
+  },
+  "f8e889f0-d423-49c7-9553-244cacc30289": {
+    "id": "f8e889f0-d423-49c7-9553-244cacc30289",
+    "name": "secure",
+    "tile": {
+      "y": 10,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -0.8181818181818182,
+    "description": "feeling safe and protected"
+  },
+  "ca59186c-783c-4029-9c35-89306689c406": {
+    "id": "ca59186c-783c-4029-9c35-89306689c406",
+    "name": "connected",
+    "tile": {
+      "y": 7,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -0.2727272727272727,
+    "description": "feeling close to someone or part of a community"
+  },
+  "e93a4dd3-7290-404c-b7af-52f99f12dce8": {
+    "description": "silently expressing a bad mood",
+    "energy": -0.45454545454545453,
+    "id": "e93a4dd3-7290-404c-b7af-52f99f12dce8",
+    "tile": {
+      "y": 8,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "name": "sullen"
+  },
+  "dee4c12b-fe73-47c1-8f9a-6b7b3b1a527f": {
+    "id": "dee4c12b-fe73-47c1-8f9a-6b7b3b1a527f",
+    "name": "safe",
+    "tile": {
+      "y": 10,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -0.8181818181818182,
+    "description": "feeling protected from danger"
+  },
+  "2b0d5588-6942-4a40-87be-b4fa4641f2f3": {
+    "id": "2b0d5588-6942-4a40-87be-b4fa4641f2f3",
+    "name": "amazed",
+    "tile": {
+      "y": 1,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 0.8181818181818182,
+    "description": "feeling lost in wonder about a particular event"
+  },
+  "4d75a1f7-168c-419d-898e-1b979e5da094": {
+    "id": "4d75a1f7-168c-419d-898e-1b979e5da094",
+    "name": "forlorn",
+    "tile": {
+      "y": 8,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -0.45454545454545453,
+    "description": "feeling both sad and alone"
+  },
+  "2b860c79-eb89-4853-b6e3-e73e4cbaf525": {
+    "id": "2b860c79-eb89-4853-b6e3-e73e4cbaf525",
+    "name": "humiliated",
+    "tile": {
+      "y": 7,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -0.2727272727272727,
+    "description": "feeling exposed and foolish in front of others"
+  },
+  "503d5709-ea1f-49be-96a4-5673a9484527": {
+    "id": "503d5709-ea1f-49be-96a4-5673a9484527",
+    "name": "proud",
+    "tile": {
+      "y": 2,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 0.6363636363636364,
+    "description": "pleased with your own achievements or those of someone close to you"
+  },
+  "f40cbf4c-75f9-4bff-a2af-e939c4fd9dee": {
+    "id": "f40cbf4c-75f9-4bff-a2af-e939c4fd9dee",
+    "name": "excluded",
+    "tile": {
+      "y": 9,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -0.6363636363636364,
+    "description": "feeling left out and unwanted from a desired group"
+  },
+  "c7f90dad-2068-4359-90ec-61024c39d756": {
+    "id": "c7f90dad-2068-4359-90ec-61024c39d756",
+    "name": "peeved",
+    "tile": {
+      "y": 5,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 0.09090909090909091,
+    "description": "slightly irritated about something"
+  },
+  "f0cbc56f-c2fc-4df9-b7b7-6ef92ec0ef67": {
+    "id": "f0cbc56f-c2fc-4df9-b7b7-6ef92ec0ef67",
+    "name": "relaxed",
+    "tile": {
+      "y": 8,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -0.45454545454545453,
+    "description": "feeling casual and restful in body and mind"
+  },
+  "3b173f82-e886-4394-88da-f674d579fc53": {
+    "id": "3b173f82-e886-4394-88da-f674d579fc53",
+    "name": "exhausted",
+    "tile": {
+      "y": 11,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -1.0,
+    "description": "feeling depleted of all energy"
+  },
+  "7ef18462-1691-4182-8822-e7d1ea331146": {
+    "id": "7ef18462-1691-4182-8822-e7d1ea331146",
+    "name": "balanced",
+    "tile": {
+      "y": 10,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -0.8181818181818182,
+    "description": "feeling stable and satisfied"
+  },
+  "d6663b6e-9e56-4387-9b8c-63c3df797040": {
+    "id": "d6663b6e-9e56-4387-9b8c-63c3df797040",
+    "name": "challenged",
+    "tile": {
+      "y": 4,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 0.2727272727272727,
+    "description": "feeling pushed to reach a higher goal"
+  },
+  "52505c4a-9585-46fd-964f-1bdb4af6b4c0": {
+    "id": "52505c4a-9585-46fd-964f-1bdb4af6b4c0",
+    "name": "surprised",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 1.0,
+    "description": "caught off guard by something unexpected or unusual"
+  },
+  "e9cdd0f2-e42c-42c9-9df5-4e6790bc8751": {
+    "id": "e9cdd0f2-e42c-42c9-9df5-4e6790bc8751",
+    "name": "tranquil",
+    "tile": {
+      "y": 11,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -1.0,
+    "description": "peaceful, free from tension"
+  },
+  "05e5a5b2-e445-41ad-bf4f-a5546ae4925c": {
+    "id": "05e5a5b2-e445-41ad-bf4f-a5546ae4925c",
+    "name": "elated",
+    "tile": {
+      "y": 0,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 1.0,
+    "description": "very joyful, proud, or enthusiastic"
+  },
+  "843c5101-04e3-412e-82b0-2c47a2f55758": {
+    "id": "843c5101-04e3-412e-82b0-2c47a2f55758",
+    "name": "hyper",
+    "tile": {
+      "y": 0,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 1.0,
+    "description": "feeling energetic and like you want to move around"
+  },
+  "ed7f441c-2777-43f1-b3a0-5949ce3f94a6": {
+    "id": "ed7f441c-2777-43f1-b3a0-5949ce3f94a6",
+    "name": "pleased",
+    "tile": {
+      "y": 5,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 0.09090909090909091,
+    "description": "feeling content and happy about a particular situation or person"
+  },
+  "ffd4b7de-4e48-433f-84c7-54dadb1dbcc5": {
+    "id": "ffd4b7de-4e48-433f-84c7-54dadb1dbcc5",
+    "name": "appreciated",
+    "tile": {
+      "y": 7,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -0.2727272727272727,
+    "description": "feeling recognized and worthy"
+  },
+  "ea9100c7-1069-45da-8307-5d76ccf74017": {
+    "id": "ea9100c7-1069-45da-8307-5d76ccf74017",
+    "name": "disconnected",
+    "tile": {
+      "y": 8,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -0.45454545454545453,
+    "description": "feeling separate from others"
+  },
+  "fbdadf29-16e1-4de1-a03f-7ef3d5d6a3fe": {
+    "id": "fbdadf29-16e1-4de1-a03f-7ef3d5d6a3fe",
+    "name": "disheartened",
+    "tile": {
+      "y": 6,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -0.09090909090909091,
+    "description": "loss of resolve or determination"
+  },
+  "c9728fbe-dd17-4ef8-98d9-a9b7b7213d7c": {
+    "id": "c9728fbe-dd17-4ef8-98d9-a9b7b7213d7c",
+    "name": "engaged",
+    "tile": {
+      "y": 4,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 0.2727272727272727,
+    "description": "paying full attention or participating fully in something"
+  },
+  "1659586b-4e4a-4702-a047-6d82b7fad847": {
+    "id": "1659586b-4e4a-4702-a047-6d82b7fad847",
+    "name": "livid",
+    "tile": {
+      "y": 1,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 0.8181818181818182,
+    "description": "feeling furious about something or someone"
+  },
+  "265edcb5-3721-423c-8bb1-57a74352180f": {
+    "id": "265edcb5-3721-423c-8bb1-57a74352180f",
+    "name": "relieved",
+    "tile": {
+      "y": 11,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -1.0,
+    "description": "feeling at ease after an unpleasant feeling goes away"
+  },
+  "ece76d81-54a1-4858-a315-ad6ec6285c57": {
+    "id": "ece76d81-54a1-4858-a315-ad6ec6285c57",
+    "name": "motivated",
+    "tile": {
+      "y": 3,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 0.45454545454545453,
+    "description": "enthusiastic about doing something"
+  },
+  "8b06a9cb-e0a0-48f9-9aca-5c9b4e92b6b9": {
+    "id": "8b06a9cb-e0a0-48f9-9aca-5c9b4e92b6b9",
+    "name": "angry",
+    "tile": {
+      "y": 3,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 0.45454545454545453,
+    "description": "strongly bothered about a perceived injustice"
+  },
+  "dfefddbf-2795-493a-ba58-d550de339ebf": {
+    "id": "dfefddbf-2795-493a-ba58-d550de339ebf",
+    "name": "scared",
+    "tile": {
+      "y": 3,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 0.45454545454545453,
+    "description": "perceiving threat or danger, whether physical or physiological"
+  },
+  "a8f1999d-93da-4cc9-a3c9-2352b1cd1c4c": {
+    "id": "a8f1999d-93da-4cc9-a3c9-2352b1cd1c4c",
+    "name": "overwhelmed",
+    "tile": {
+      "y": 1,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 0.8181818181818182,
+    "description": "feeling like you have been taken over by strong feelings"
+  },
+  "96111545-6c08-460a-ac01-88842d6eace8": {
+    "id": "96111545-6c08-460a-ac01-88842d6eace8",
+    "name": "tense",
+    "tile": {
+      "y": 4,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 0.2727272727272727,
+    "description": "unable to relax"
+  },
+  "e081feae-e300-4b0d-8775-bda1d11d42f0": {
+    "id": "e081feae-e300-4b0d-8775-bda1d11d42f0",
+    "name": "impassioned",
+    "tile": {
+      "y": 0,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 1.0,
+    "description": "filled with lots of emotion"
+  },
+  "64b92dd2-f4b7-4744-8a79-c62938760f0a": {
+    "id": "64b92dd2-f4b7-4744-8a79-c62938760f0a",
+    "name": "spent",
+    "tile": {
+      "y": 9,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -0.6363636363636364,
+    "description": "feeling extremely exhausted, both in body and mind"
+  },
+  "aa32edc9-5747-4f2b-a382-bb7c49ebf8af": {
+    "id": "aa32edc9-5747-4f2b-a382-bb7c49ebf8af",
+    "name": "envious",
+    "tile": {
+      "y": 4,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 0.2727272727272727,
+    "description": "feelings of desire for something that someone else has"
+  },
+  "020b9982-3fc4-499a-a37b-0f225e860123": {
+    "id": "020b9982-3fc4-499a-a37b-0f225e860123",
+    "name": "delighted",
+    "tile": {
+      "y": 5,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 0.09090909090909091,
+    "description": "feeling lifted by joy"
+  },
+  "08b8c46c-63c8-483d-8d47-ab16dccbcfe2": {
+    "id": "08b8c46c-63c8-483d-8d47-ab16dccbcfe2",
+    "name": "empowered",
+    "tile": {
+      "y": 1,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 0.8181818181818182,
+    "description": "feeling stronger or more confident due to someone or something that happened"
+  },
+  "c2c56acf-12f1-4867-bc7d-fa8457d8b9d0": {
+    "id": "c2c56acf-12f1-4867-bc7d-fa8457d8b9d0",
+    "name": "good",
+    "tile": {
+      "y": 7,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -0.2727272727272727,
+    "description": "feeling positive, like things are just fine",
+    "filename": "good"
+  },
+  "b86d7134-0320-4a27-8daf-52618f508be4": {
+    "id": "b86d7134-0320-4a27-8daf-52618f508be4",
+    "name": "optimistic",
+    "tile": {
+      "y": 3,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 0.45454545454545453,
+    "description": "hopeful and confident about the future"
+  },
+  "dc0d6d0f-4dc8-4dbb-a223-9cb17b429b64": {
+    "id": "dc0d6d0f-4dc8-4dbb-a223-9cb17b429b64",
+    "name": "awe",
+    "tile": {
+      "y": 0,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 1.0,
+    "description": "feeling like you are in the presence of something vast"
+  },
+  "2392de02-35ce-43db-bfe7-122068c63a00": {
+    "id": "2392de02-35ce-43db-bfe7-122068c63a00",
+    "name": "apprehensive",
+    "tile": {
+      "y": 2,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 0.6363636363636364,
+    "description": "unease and worry about something that might happen"
+  },
+  "c6844ef2-7afd-4a9e-a02d-8086b666f5df": {
+    "id": "c6844ef2-7afd-4a9e-a02d-8086b666f5df",
+    "name": "thankful",
+    "tile": {
+      "y": 11,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -1.0,
+    "description": "feeling pleased or appreciative"
+  },
+  "e76ab6a1-e0d2-4386-8264-62ce441d305f": {
+    "id": "e76ab6a1-e0d2-4386-8264-62ce441d305f",
+    "name": "enthusiastic",
+    "tile": {
+      "y": 2,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 0.6363636363636364,
+    "description": "highly interested in an idea or activity"
+  },
+  "3a016f67-fc82-4a19-9385-cb570ce9fc47": {
+    "id": "3a016f67-fc82-4a19-9385-cb570ce9fc47",
+    "name": "energized",
+    "tile": {
+      "y": 2,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 0.6363636363636364,
+    "description": "feeling like you are wide awake and ready to get up and go"
+  },
+  "e5cce149-8bd0-499d-a541-cce86dd6ed3d": {
+    "id": "e5cce149-8bd0-499d-a541-cce86dd6ed3d",
+    "name": "fulfilled",
+    "tile": {
+      "y": 6,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -0.09090909090909091,
+    "description": "feeling like you have accomplished important personal goals or have become the person you want to be"
+  },
+  "598a2257-434e-4342-b2c5-b27412ac4d5b": {
+    "id": "598a2257-434e-4342-b2c5-b27412ac4d5b",
+    "name": "miserable",
+    "tile": {
+      "y": 11,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -1.0,
+    "description": "feeling absolutely awful"
+  },
+  "1a12d0bf-e442-48ff-8310-c86daeae6b99": {
+    "id": "1a12d0bf-e442-48ff-8310-c86daeae6b99",
+    "name": "at ease",
+    "tile": {
+      "y": 6,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -0.09090909090909091,
+    "description": "feeling content and comfortable"
+  },
+  "b8bcac7f-8be3-4a6b-8428-166e92d69777": {
+    "id": "b8bcac7f-8be3-4a6b-8428-166e92d69777",
+    "name": "shocked",
+    "tile": {
+      "y": 0,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 1.0,
+    "description": "experiencing extreme horror, disgust, and surprise"
+  },
+  "a39268af-baa9-4253-bfae-12b570acdc2f": {
+    "id": "a39268af-baa9-4253-bfae-12b570acdc2f",
+    "name": "burned out",
+    "tile": {
+      "y": 11,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -1.0,
+    "description": "feeling exhausted from ongoing stress"
+  },
+  "e4794d30-9fd5-4180-8b15-4596ad6b73c8": {
+    "id": "e4794d30-9fd5-4180-8b15-4596ad6b73c8",
+    "name": "uneasy",
+    "tile": {
+      "y": 5,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 0.09090909090909091,
+    "description": "vague sense that something is wrong"
+  },
+  "9bb93126-ef7d-445a-afcd-0a1dc35b3bf3": {
+    "id": "9bb93126-ef7d-445a-afcd-0a1dc35b3bf3",
+    "name": "grateful",
+    "tile": {
+      "y": 8,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -0.45454545454545453,
+    "description": "appreciative of something or someone"
+  },
+  "411d6d18-9d11-412d-a77b-e695ac536924": {
+    "id": "411d6d18-9d11-412d-a77b-e695ac536924",
+    "name": "curious",
+    "tile": {
+      "y": 3,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 0.45454545454545453,
+    "description": "interested in learning something"
+  },
+  "03cd4948-7d87-48b5-827d-b041de8c108a": {
+    "id": "03cd4948-7d87-48b5-827d-b041de8c108a",
+    "name": "chill",
+    "tile": {
+      "y": 8,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -0.45454545454545453,
+    "description": "feeling relaxed and easygoing"
+  },
+  "2ab00083-f6b7-4e98-ba9b-f1e43ec7d0db": {
+    "id": "2ab00083-f6b7-4e98-ba9b-f1e43ec7d0db",
+    "name": "lonely",
+    "tile": {
+      "y": 10,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -0.8181818181818182,
+    "description": "feeling sad because you are alone or disconnected"
+  },
+  "2c6fd8ce-c4c0-4caf-b4e1-44736c9816ed": {
+    "id": "2c6fd8ce-c4c0-4caf-b4e1-44736c9816ed",
+    "name": "meh",
+    "tile": {
+      "y": 7,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -0.2727272727272727,
+    "description": "feeling uninspired or blah"
+  },
+  "7f2a57db-32a4-4f32-baf1-c07d98c4741e": {
+    "id": "7f2a57db-32a4-4f32-baf1-c07d98c4741e",
+    "name": "sleepy",
+    "deleted": true,
+    "note": "this was really never shipped and should be green",
+    "tile": {
+      "y": 8,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.45454545454545453,
+    "description": "a lil tired but good spirits"
+  },
+  "0af77eef-57f3-494e-95cd-f9d76da7da89": {
+    "id": "0af77eef-57f3-494e-95cd-f9d76da7da89",
+    "name": "understood",
+    "tile": {
+      "y": 6,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -0.09090909090909091,
+    "description": "feeling that someone gets you"
+  },
+  "f6075ed9-c5ab-4848-bac5-f0875ff69f8c": {
+    "id": "f6075ed9-c5ab-4848-bac5-f0875ff69f8c",
+    "name": "loved",
+    "tile": {
+      "y": 7,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -0.2727272727272727,
+    "description": "feeling like someone cares deeply for you"
+  },
+  "18aa0b5d-da89-4508-8f91-dec10af4cfde": {
+    "id": "18aa0b5d-da89-4508-8f91-dec10af4cfde",
+    "name": "anxious",
+    "tile": {
+      "y": 2,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 0.6363636363636364,
+    "description": "worried and uneasy about an uncertain outcome"
+  },
+  "ec53c50c-bc2c-4b2f-ad0d-5c0b86a33a0f": {
+    "id": "ec53c50c-bc2c-4b2f-ad0d-5c0b86a33a0f",
+    "name": "moved",
+    "tile": {
+      "y": 9,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -0.6363636363636364,
+    "description": "a sudden feeling that happens after seeing something inspirational or sad"
+  },
+  "134f87ff-ee6c-4910-89d4-5dc88e48ea52": {
+    "id": "134f87ff-ee6c-4910-89d4-5dc88e48ea52",
+    "name": "playful",
+    "tile": {
+      "y": 5,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": 0.09090909090909091,
+    "description": "feeling happy and lighthearted"
+  },
+  "c6969be4-a2b7-4707-9c16-428f508a36e9": {
+    "id": "c6969be4-a2b7-4707-9c16-428f508a36e9",
+    "name": "insecure",
+    "tile": {
+      "y": 6,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -0.09090909090909091,
+    "description": "feeling uncertain and unconfident about yourself"
+  },
+  "d2a0d920-0d8c-4715-8076-7e5d9e15088c": {
+    "id": "d2a0d920-0d8c-4715-8076-7e5d9e15088c",
+    "name": "cheerful",
+    "tile": {
+      "y": 3,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": 0.45454545454545453,
+    "description": "full of happy feelings"
+  },
+  "112f1dba-ee15-4d3b-9ba4-f423a96cc476": {
+    "id": "112f1dba-ee15-4d3b-9ba4-f423a96cc476",
+    "name": "repulsed",
+    "tile": {
+      "y": 4,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 0.2727272727272727,
+    "description": "nauseated by someone or something"
+  },
+  "f532aab4-f566-43e7-bea3-6872b4a55098": {
+    "id": "f532aab4-f566-43e7-bea3-6872b4a55098",
+    "name": "numb",
+    "tile": {
+      "y": 9,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -0.6363636363636364,
+    "description": "dampening or loss of sensitivity to feelings, with a hint of negative mood"
+  },
+  "7276b286-2b3c-4f8b-abb1-fb05377cd6df": {
+    "id": "7276b286-2b3c-4f8b-abb1-fb05377cd6df",
+    "name": "carefree",
+    "tile": {
+      "y": 11,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -1.0,
+    "description": "feeling free of worry and lighthearted"
+  },
+  "041e58a9-1137-41c6-93e3-e15e443e763f": {
+    "id": "041e58a9-1137-41c6-93e3-e15e443e763f",
+    "name": "confident",
+    "tile": {
+      "y": 4,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 0.2727272727272727,
+    "description": "feeling sure of yourself"
+  },
+  "3359ad3b-9b42-464c-bd10-d34b4b966eb8": {
+    "id": "3359ad3b-9b42-464c-bd10-d34b4b966eb8",
+    "name": "morose",
+    "description": "feeling sad and gloomy",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "70ef3331-e3cb-433c-bd7f-769981c1b386": {
+    "id": "70ef3331-e3cb-433c-bd7f-769981c1b386",
+    "name": "calm",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -0.09090909090909091,
+    "description": "feeling free of stress, agitation, and worry"
+  },
+  "3a172f7b-a23c-4079-9938-7b904596da3d": {
+    "id": "3a172f7b-a23c-4079-9938-7b904596da3d",
+    "name": "fatigued",
+    "tile": {
+      "y": 8,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.45454545454545453,
+    "description": "feeling physically drained"
+  },
+  "de413573-b09d-4107-aa09-ef8f99f6f070": {
+    "id": "de413573-b09d-4107-aa09-ef8f99f6f070",
+    "name": "embarrassed",
+    "tile": {
+      "y": 4,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": 0.2727272727272727,
+    "description": "self-conscious and uncomfortable about how you think others are perceiving you"
+  },
+  "e02cb01d-8399-4e36-8da8-23b5f8153502": {
+    "id": "e02cb01d-8399-4e36-8da8-23b5f8153502",
+    "name": "worried",
+    "tile": {
+      "y": 5,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": 0.09090909090909091,
+    "description": "troubled about actual or potential problems"
+  },
+  "3dbbafbf-1e8c-468d-b600-5b53ee6ce6a0": {
+    "id": "3dbbafbf-1e8c-468d-b600-5b53ee6ce6a0",
+    "name": "depressed",
+    "tile": {
+      "y": 10,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -0.8181818181818182,
+    "description": "extremely unhappy and dispirited"
+  },
+  "9188dc63-b11e-4252-ab0b-f6b992d5bd49": {
+    "id": "9188dc63-b11e-4252-ab0b-f6b992d5bd49",
+    "name": "hopeless",
+    "tile": {
+      "y": 10,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -0.8181818181818182,
+    "description": "feel completely defeated and in despair about the future"
+  },
+  "2b38ed8e-a833-47cc-87cc-8398d1697d8b": {
+    "id": "2b38ed8e-a833-47cc-87cc-8398d1697d8b",
+    "name": "mellow",
+    "tile": {
+      "y": 10,
+      "x": 6
+    },
+    "pleasantness": 0.09090909090909091,
+    "energy": -0.8181818181818182,
+    "description": "relaxed and laid back; easygoing"
+  },
+  "457479ec-7a99-4b03-982a-da957dadacf6": {
+    "id": "457479ec-7a99-4b03-982a-da957dadacf6",
+    "name": "sad",
+    "tile": {
+      "y": 8,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": -0.45454545454545453,
+    "description": "feeling unhappy about something"
+  },
+  "0e6f14b3-df17-4c51-83f0-469675588ec9": {
+    "id": "0e6f14b3-df17-4c51-83f0-469675588ec9",
+    "name": "hopeful",
+    "tile": {
+      "y": 5,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": 0.09090909090909091,
+    "description": "optimistic that something good will happen"
+  },
+  "b0ab4d70-781e-4946-ba10-dfad33c406a5": {
+    "id": "b0ab4d70-781e-4946-ba10-dfad33c406a5",
+    "name": "jealous",
+    "tile": {
+      "y": 3,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": 0.45454545454545453,
+    "description": "threatened that you're losing an important relationship to someone else"
+  },
+  "57befcda-357a-417f-a7a4-c41e39803d9f": {
+    "id": "57befcda-357a-417f-a7a4-c41e39803d9f",
+    "name": "thoughtful",
+    "tile": {
+      "y": 7,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -0.2727272727272727,
+    "description": "being considerate or reflective about a situation (past, present, or future), oneself, or others"
+  },
+  "7df8d914-e7fd-4016-a460-771160f838bd": {
+    "id": "7df8d914-e7fd-4016-a460-771160f838bd",
+    "name": "disappointed",
+    "tile": {
+      "y": 7,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -0.2727272727272727,
+    "description": "sad because your expectations were not met"
+  },
+  "480d85be-6b65-4286-beae-0de23e0c3f43": {
+    "id": "480d85be-6b65-4286-beae-0de23e0c3f43",
+    "name": "included",
+    "tile": {
+      "y": 8,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -0.45454545454545453,
+    "description": "feeling like you're part of a group"
+  },
+  "5ef85dfa-e6dc-4a8d-a12a-76934fa6dd9b": {
+    "id": "5ef85dfa-e6dc-4a8d-a12a-76934fa6dd9b",
+    "name": "concerned",
+    "tile": {
+      "y": 4,
+      "x": 4
+    },
+    "pleasantness": -0.2727272727272727,
+    "energy": 0.2727272727272727,
+    "description": "wondering if someone or something is okay"
+  },
+  "e2a15d5f-4461-4fbe-8dc8-176bd8696f55": {
+    "id": "e2a15d5f-4461-4fbe-8dc8-176bd8696f55",
+    "name": "despair",
+    "tile": {
+      "y": 11,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -1.0,
+    "description": "a feeling of complete hopelessness"
+  },
+  "5fd58668-481a-409e-957c-aad7aaaec225": {
+    "id": "5fd58668-481a-409e-957c-aad7aaaec225",
+    "name": "peaceful",
+    "tile": {
+      "y": 10,
+      "x": 7
+    },
+    "pleasantness": 0.2727272727272727,
+    "energy": -0.8181818181818182,
+    "description": "quiet and calm; free from disturbance"
+  },
+  "4417ba92-47ef-436e-b4f4-172e8cb58c60": {
+    "id": "4417ba92-47ef-436e-b4f4-172e8cb58c60",
+    "name": "ashamed",
+    "tile": {
+      "y": 7,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -0.2727272727272727,
+    "description": "feeling lower self-worth as a result of who you are or what you did"
+  },
+  "083d44bd-b96b-4956-9f42-db1e3319c3b0": {
+    "id": "083d44bd-b96b-4956-9f42-db1e3319c3b0",
+    "name": "lost",
+    "tile": {
+      "y": 7,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -0.2727272727272727,
+    "description": "feeling uncomfortably alone and lacking direction"
+  },
+  "7526b363-bcf4-4d40-9ef6-4c5ef68c4b82": {
+    "id": "7526b363-bcf4-4d40-9ef6-4c5ef68c4b82",
+    "name": "satisfied",
+    "tile": {
+      "y": 11,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -1.0,
+    "description": "pleased with what you have or with something you did"
+  },
+  "bd269192-56da-4e0f-9c6e-fbc2e02ddc13": {
+    "id": "bd269192-56da-4e0f-9c6e-fbc2e02ddc13",
+    "name": "successful",
+    "tile": {
+      "y": 1,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 0.8181818181818182,
+    "description": "feeling like you've achieved something important to you"
+  },
+  "5c7a08b5-d7df-4807-a530-76bbb437a6d6": {
+    "id": "5c7a08b5-d7df-4807-a530-76bbb437a6d6",
+    "name": "competent",
+    "description": "feeling capable of doing something successfully",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "89419eb0-9d99-41e9-9cb5-515557a5b17b": {
+    "id": "89419eb0-9d99-41e9-9cb5-515557a5b17b",
+    "name": "trapped",
+    "tile": {
+      "y": 6,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -0.09090909090909091,
+    "description": "feeling like there's no way out"
+  },
+  "b9e41f1f-13fb-45ca-8178-bf111a22f3c5": {
+    "id": "b9e41f1f-13fb-45ca-8178-bf111a22f3c5",
+    "name": "glum",
+    "tile": {
+      "y": 11,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -1.0,
+    "description": "feeling displeased; pessimistic about future events"
+  },
+  "bb75321f-c52d-4baf-8e56-ed5efdbf4993": {
+    "id": "bb75321f-c52d-4baf-8e56-ed5efdbf4993",
+    "name": "alienated",
+    "tile": {
+      "y": 10,
+      "x": 2
+    },
+    "pleasantness": -0.6363636363636364,
+    "energy": -0.8181818181818182,
+    "description": "feeling like you have been made a stranger to others, like they have no feelings or affection towards you"
+  },
+  "92e5f55d-40e7-44af-8385-eae6291f0ca8": {
+    "id": "92e5f55d-40e7-44af-8385-eae6291f0ca8",
+    "name": "vulnerable",
+    "tile": {
+      "y": 8,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": -0.45454545454545453,
+    "description": "feeling like you could easily be emotionally or mentally hurt"
+  },
+  "30421bda-5ae5-4af0-8a7c-6bdad6df3147": {
+    "id": "30421bda-5ae5-4af0-8a7c-6bdad6df3147",
+    "name": "disgusted",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -0.09090909090909091,
+    "description": "feeling a strong dislike of someone or something"
+  },
+  "a0cb6bc1-fc76-4486-87b2-a8de24fe32e5": {
+    "id": "a0cb6bc1-fc76-4486-87b2-a8de24fe32e5",
+    "name": "apathetic",
+    "tile": {
+      "y": 10,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": -0.8181818181818182,
+    "description": "lacking enthusiasm or interest"
+  },
+  "cc2e2500-79b3-4ce0-bde6-980b762ee2c2": {
+    "id": "cc2e2500-79b3-4ce0-bde6-980b762ee2c2",
+    "name": "valued",
+    "tile": {
+      "y": 8,
+      "x": 10
+    },
+    "pleasantness": 0.8181818181818182,
+    "energy": -0.45454545454545453,
+    "description": "feeling like you matter"
+  },
+  "91ff1e30-1138-44f2-9f6b-73a60e5cef49": {
+    "id": "91ff1e30-1138-44f2-9f6b-73a60e5cef49",
+    "name": "restless",
+    "tile": {
+      "y": 2,
+      "x": 5
+    },
+    "pleasantness": -0.09090909090909091,
+    "energy": 0.6363636363636364,
+    "description": "unable to relax due to anxiety or boredom"
+  },
+  "4f529f45-3162-4642-b446-0bf35104bafa": {
+    "id": "4f529f45-3162-4642-b446-0bf35104bafa",
+    "name": "alive",
+    "tile": {
+      "y": 4,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": 0.2727272727272727,
+    "description": "filled with energy and vitality"
+  },
+  "ecf76afc-b714-4c7d-bec0-1140b5c548fb": {
+    "id": "ecf76afc-b714-4c7d-bec0-1140b5c548fb",
+    "name": "frightened",
+    "tile": {
+      "y": 2,
+      "x": 1
+    },
+    "pleasantness": -0.8181818181818182,
+    "energy": 0.6363636363636364,
+    "description": "afraid or fearful"
+  },
+  "4fa586ef-303e-4e5c-9c3a-b3ba3943b41e": {
+    "id": "4fa586ef-303e-4e5c-9c3a-b3ba3943b41e",
+    "name": "ecstatic",
+    "tile": {
+      "y": 0,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": 1.0,
+    "description": "feeling the greatest amount of joy or happiness"
+  },
+  "c9df644e-93a1-4fd8-9e3c-39292552367e": {
+    "id": "c9df644e-93a1-4fd8-9e3c-39292552367e",
+    "name": "serene",
+    "tile": {
+      "y": 11,
+      "x": 11
+    },
+    "pleasantness": 1.0,
+    "energy": -1.0,
+    "description": "calm and peaceful; untroubled"
+  },
+  "5367bcf7-1740-42f8-8783-895df78dcb87": {
+    "id": "5367bcf7-1740-42f8-8783-895df78dcb87",
+    "name": "supported",
+    "tile": {
+      "y": 7,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": -0.2727272727272727,
+    "description": "feeling like someone is there for you"
+  },
+  "7a0d7153-f5e8-43a9-bd04-a3517192aea5": {
+    "id": "7a0d7153-f5e8-43a9-bd04-a3517192aea5",
+    "name": "isolated",
+    "description": "feeling like you're cut off from others",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "5e49734f-17cf-4ec9-ac32-1faa52f32845": {
+    "id": "5e49734f-17cf-4ec9-ac32-1faa52f32845",
+    "name": "wishful",
+    "tile": {
+      "y": 5,
+      "x": 9
+    },
+    "pleasantness": 0.6363636363636364,
+    "energy": 0.09090909090909091,
+    "description": "having or showing a wish, longing"
+  },
+  "1e718ba4-3f48-4368-be23-19f2086cc2ae": {
+    "id": "1e718ba4-3f48-4368-be23-19f2086cc2ae",
+    "name": "empathetic",
+    "tile": {
+      "y": 9,
+      "x": 8
+    },
+    "pleasantness": 0.45454545454545453,
+    "energy": -0.6363636363636364,
+    "description": "understanding and temporarily sharing the feelings of someone else, whether positive or negative (e.g., sharing in happiness or sorrow)"
+  },
+  "743fc1ca-c95c-4519-83d5-3b225ea2841f": {
+    "id": "743fc1ca-c95c-4519-83d5-3b225ea2841f",
+    "name": "nostalgic",
+    "tile": {
+      "y": 10,
+      "x": 3
+    },
+    "pleasantness": -0.45454545454545453,
+    "energy": -0.8181818181818182,
+    "description": "a sentimental longing for the happiness felt in former place, time or situation"
+  },
+  "c2c067b2-b0bc-4c50-b9cb-b5dedb84440f": {
+    "id": "c2c067b2-b0bc-4c50-b9cb-b5dedb84440f",
+    "name": "guilty",
+    "tile": {
+      "y": 9,
+      "x": 0
+    },
+    "pleasantness": -1.0,
+    "energy": -0.6363636363636364,
+    "description": "feeling responsible for a specific wrongdoing"
+  },
+  "dff50ec2-d97d-487c-85ee-3111b2873579": {
+    "id": "dff50ec2-d97d-487c-85ee-3111b2873579",
+    "name": "afraid",
+    "description": "experiencing fear or threat",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "5f0d7dc6-0f7c-4da5-9d8f-fc3c9e93edc5": {
+    "id": "5f0d7dc6-0f7c-4da5-9d8f-fc3c9e93edc5",
+    "name": "agitated",
+    "description": "very troubled and restless",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "f0a1b9c1-dc95-4d8d-bfa1-d3d8961315c0": {
+    "id": "f0a1b9c1-dc95-4d8d-bfa1-d3d8961315c0",
+    "name": "alarmed",
+    "description": "a sense of urgent fear or concern",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "ade4141c-6377-4530-bb88-4ad77c69d293": {
+    "id": "ade4141c-6377-4530-bb88-4ad77c69d293",
+    "name": "anguished",
+    "description": "experiencing severe physiological pain or suffering",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "dd3c20db-cb39-46e0-b77e-8a5936a2b12c": {
+    "id": "dd3c20db-cb39-46e0-b77e-8a5936a2b12c",
+    "name": "astonished",
+    "description": "greatly surprised or impressed",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "9186e913-ad18-47e7-9862-5b189980e56d": {
+    "id": "9186e913-ad18-47e7-9862-5b189980e56d",
+    "name": "dazed",
+    "description": "feeling you are unable to think or react",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "81ef4e0e-74b8-46da-8e14-f209fa805f8d": {
+    "id": "81ef4e0e-74b8-46da-8e14-f209fa805f8d",
+    "name": "discomfort",
+    "description": "feeling of unease or pain",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "954080ad-ff70-433b-af05-0de5a285a407": {
+    "id": "954080ad-ff70-433b-af05-0de5a285a407",
+    "name": "distressed",
+    "description": "feeling unwell and agitated physiologically, can have different causes (emotional pain, threat, loss, etc.)",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "8cd783a1-ba4e-4d1c-acf5-74e9fe940c03": {
+    "id": "8cd783a1-ba4e-4d1c-acf5-74e9fe940c03",
+    "name": "dread",
+    "description": "anxiety because of expecting something unpleasant or upsetting",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "5bbbb4dc-e58f-4733-bd93-dc9c7eacd4e1": {
+    "id": "5bbbb4dc-e58f-4733-bd93-dc9c7eacd4e1",
+    "name": "dumbfounded",
+    "description": "being speechless with shock",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "7bb0406e-da91-400f-8553-52091a006d12": {
+    "id": "7bb0406e-da91-400f-8553-52091a006d12",
+    "name": "exasperated",
+    "description": "experiencing intense irritation",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "21a6553c-f94e-4157-b5aa-bca49b6be782": {
+    "id": "21a6553c-f94e-4157-b5aa-bca49b6be782",
+    "name": "grumpy",
+    "description": "feeling bad-tempered and easily annoyed",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "4980cd80-8ab2-43c0-8c73-a74174875dd4": {
+    "id": "4980cd80-8ab2-43c0-8c73-a74174875dd4",
+    "name": "hate",
+    "description": "intense dislike for something or someone",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "63992ff7-4e9c-499e-bca0-7ca24cabd3ee": {
+    "id": "63992ff7-4e9c-499e-bca0-7ca24cabd3ee",
+    "name": "horrified",
+    "description": "experiencing intense fear or disgust",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "11a422e9-8c82-4279-a785-7bf238416d1f": {
+    "id": "11a422e9-8c82-4279-a785-7bf238416d1f",
+    "name": "indignant",
+    "description": "feeling angry and disgusted when unfairly treated",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "8015f491-fc90-4240-862a-3f4524bffaeb": {
+    "id": "8015f491-fc90-4240-862a-3f4524bffaeb",
+    "name": "mad",
+    "description": "feeling intensely angry",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "2fa11c02-8586-4ee8-8861-a8e3b4391d16": {
+    "id": "2fa11c02-8586-4ee8-8861-a8e3b4391d16",
+    "name": "nauseated",
+    "description": "feeling sick with disgust",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "c480165d-0009-4913-87c0-36440392fe7e": {
+    "id": "c480165d-0009-4913-87c0-36440392fe7e",
+    "name": "pissed",
+    "description": "very angry or annoyed",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "3b72f049-1190-43de-9e07-40398bec6e3a": {
+    "id": "3b72f049-1190-43de-9e07-40398bec6e3a",
+    "name": "scorn",
+    "description": "feeling that someone or something is worthless or despicable",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "a0fe75f0-1810-458d-9467-c6b578ccc6e5": {
+    "id": "a0fe75f0-1810-458d-9467-c6b578ccc6e5",
+    "name": "startled",
+    "description": "move or jump suddenly with surprise or alarm",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "0c0f11cf-8cd4-4ceb-aabe-1261b5d1d11b": {
+    "id": "0c0f11cf-8cd4-4ceb-aabe-1261b5d1d11b",
+    "name": "strained",
+    "description": "tension from engaging in extreme effort",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "315916ca-5d29-447c-b452-01366fe1f88b": {
+    "id": "315916ca-5d29-447c-b452-01366fe1f88b",
+    "name": "taken aback",
+    "description": "being surprised by something unpleasant or offensive",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "610b56f5-1181-4c38-b860-fd183dd4e052": {
+    "id": "610b56f5-1181-4c38-b860-fd183dd4e052",
+    "name": "uncertain",
+    "description": "lack of clarity or confidence about something",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "7e9bfd82-9c4c-4f7c-99e0-1a8fc73cb110": {
+    "id": "7e9bfd82-9c4c-4f7c-99e0-1a8fc73cb110",
+    "name": "upset",
+    "description": "feeling disturbed or agitated",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "1e3be988-68e7-4ce6-808f-00de9a40de00": {
+    "id": "1e3be988-68e7-4ce6-808f-00de9a40de00",
+    "name": "absorbed",
+    "description": "fully focused and interested",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "60e2f0c7-e684-48bd-bdeb-59d290f8188b": {
+    "id": "60e2f0c7-e684-48bd-bdeb-59d290f8188b",
+    "name": "alert",
+    "description": "feeling awake and focused",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "71fa538b-c1bc-4cf0-a8c7-f6cec565cf7c": {
+    "id": "71fa538b-c1bc-4cf0-a8c7-f6cec565cf7c",
+    "name": "amused",
+    "description": "finding something funny or entertaining",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "feb42085-9a60-4fec-920e-b87b765765d1": {
+    "id": "feb42085-9a60-4fec-920e-b87b765765d1",
+    "name": "attentive",
+    "description": "focused on what you're doing",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "3f5ec7f8-76b6-4aed-b68b-7afd8945920c": {
+    "id": "3f5ec7f8-76b6-4aed-b68b-7afd8945920c",
+    "name": "buoyant",
+    "description": "feeling cheerful and lively",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "94c3ec29-c2a2-426d-bc3c-0459e83226d9": {
+    "id": "94c3ec29-c2a2-426d-bc3c-0459e83226d9",
+    "name": "enchanted",
+    "description": "filled with delight",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "02b2f215-a4ee-4315-a842-190b903f68ff": {
+    "id": "02b2f215-a4ee-4315-a842-190b903f68ff",
+    "name": "engrossed",
+    "description": "fully focused on someone or something",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "47b13ea4-dab9-4b66-9c8b-cc987808e033": {
+    "id": "47b13ea4-dab9-4b66-9c8b-cc987808e033",
+    "name": "enjoyment",
+    "description": "taking pleasure in an activity or a moment",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "12e387e4-aa14-47d7-b238-21f7e26da38e": {
+    "id": "12e387e4-aa14-47d7-b238-21f7e26da38e",
+    "name": "enraptured",
+    "description": "something that gives you great pleasure or joy",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "719f2acf-400a-44c8-b300-6dd8f7fe17a4": {
+    "id": "719f2acf-400a-44c8-b300-6dd8f7fe17a4",
+    "name": "enthralled",
+    "description": "feeling delighted and captivated by something",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "7ff4a4dc-cb42-459b-be37-9790826d034b": {
+    "id": "7ff4a4dc-cb42-459b-be37-9790826d034b",
+    "name": "euphoric",
+    "description": "intense happiness and a sense of wellbeing",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "23171766-916b-4918-9df3-17c6d90da7bc": {
+    "id": "23171766-916b-4918-9df3-17c6d90da7bc",
+    "name": "fascinated",
+    "description": "strongly attracted and interested in something",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "a744f1e7-aae8-4023-b85a-40c697d69644": {
+    "id": "a744f1e7-aae8-4023-b85a-40c697d69644",
+    "name": "glowing",
+    "description": "very enthusiastic and joyful",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "2faa8b4f-00bb-4c5d-9a4f-510b100618d2": {
+    "id": "2faa8b4f-00bb-4c5d-9a4f-510b100618d2",
+    "name": "interested",
+    "description": "being attracted to something and wanting to learn about it",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "336ad08f-5b0f-4acf-b3cb-dc0683caa657": {
+    "id": "336ad08f-5b0f-4acf-b3cb-dc0683caa657",
+    "name": "overjoyed",
+    "description": "delighted, intensely happy",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "28b57532-5307-4bdc-9328-50a45cd60592": {
+    "id": "28b57532-5307-4bdc-9328-50a45cd60592",
+    "name": "stoked",
+    "description": "feeling excited or pleased about something",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "e75eedca-3c04-49a3-98fe-18499a0ab85e": {
+    "id": "e75eedca-3c04-49a3-98fe-18499a0ab85e",
+    "name": "desire",
+    "description": "wishing or longing for something or someone",
+    "tile": {
+      "y": 0,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "d7d7649b-ef9b-4993-a2ad-c11aac0b255d": {
+    "id": "d7d7649b-ef9b-4993-a2ad-c11aac0b255d",
+    "name": "affectionate",
+    "description": "feeling or showing fondness",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "7be5cce3-c7a2-4680-83d5-8965dd8ede7e": {
+    "id": "7be5cce3-c7a2-4680-83d5-8965dd8ede7e",
+    "name": "even-tempered",
+    "description": "feeling centered and balanced, not easily annoyed or angered",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "66700fac-93c0-4aa4-a63c-4271195c9a4f": {
+    "id": "66700fac-93c0-4aa4-a63c-4271195c9a4f",
+    "name": "loving",
+    "description": "feeling love toward someone",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "52f091f2-d831-4ce3-ab9f-caf3a8519156": {
+    "id": "52f091f2-d831-4ce3-ab9f-caf3a8519156",
+    "name": "pensive",
+    "description": "engaged in reflection, deep or serious thought",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "af9de214-845d-48ff-b748-5afae316b799": {
+    "id": "af9de214-845d-48ff-b748-5afae316b799",
+    "name": "poised",
+    "description": "feeling composed and self-confident",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "9d1cc13d-8f9b-4645-8912-74fc56ba2e40": {
+    "id": "9d1cc13d-8f9b-4645-8912-74fc56ba2e40",
+    "name": "reverent",
+    "description": "solemn respect of a spiritual nature",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "c8ba10b9-0f6b-4fa2-885f-91b58293c090": {
+    "id": "c8ba10b9-0f6b-4fa2-885f-91b58293c090",
+    "name": "tenderness",
+    "description": "feeling gentle and kind toward someone",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "24266ab6-a045-4864-853a-cd350e4e9c15": {
+    "id": "24266ab6-a045-4864-853a-cd350e4e9c15",
+    "name": "touched",
+    "description": "being emotionally stirred or moved",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "48b39de4-91b3-4a4c-821b-972f41312778": {
+    "id": "48b39de4-91b3-4a4c-821b-972f41312778",
+    "name": "validated",
+    "description": "feeling you are seen and accepted",
+    "tile": {
+      "y": 6,
+      "x": 6
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "2db600b6-8aa8-47f6-b38f-563cc6857f6b": {
+    "id": "2db600b6-8aa8-47f6-b38f-563cc6857f6b",
+    "name": "abandoned",
+    "description": "feeling left behind and not considered, wanted, or cared about",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "3c33a547-410e-4a8f-b689-3ed289a50622": {
+    "id": "3c33a547-410e-4a8f-b689-3ed289a50622",
+    "name": "abused",
+    "description": "experiencing cruel or unjust treatment",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "8b4c6721-6421-44b6-8c16-62d5203e4afd": {
+    "id": "8b4c6721-6421-44b6-8c16-62d5203e4afd",
+    "name": "bereft",
+    "description": "suffering a loss of someone or something",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "52c03b7b-1b40-4704-952d-d2bc43177be1": {
+    "id": "52c03b7b-1b40-4704-952d-d2bc43177be1",
+    "name": "betrayed",
+    "description": "feeling hurt when someone breaks your trust",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "39386e8e-e1a3-4edc-97ad-37b1c402d836": {
+    "id": "39386e8e-e1a3-4edc-97ad-37b1c402d836",
+    "name": "cancelled",
+    "description": "feeling cast out because of a perceived offense",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "f3da9003-9ae0-4bfa-b5d5-72fa71c2acee": {
+    "id": "f3da9003-9ae0-4bfa-b5d5-72fa71c2acee",
+    "name": "crushed",
+    "description": "overwhelmingly disappointed or let down",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "bf06ac49-6432-4d8b-badc-73d3e53d6192": {
+    "id": "bf06ac49-6432-4d8b-badc-73d3e53d6192",
+    "name": "dejected",
+    "description": "feeling unhappy, low in spirits",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "aee74342-49ab-4069-b2f7-f8100b2e1f0a": {
+    "id": "aee74342-49ab-4069-b2f7-f8100b2e1f0a",
+    "name": "desolate",
+    "description": "feeling bleak and miserable",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "19c8159b-5a71-47da-9941-c56afcaeb536": {
+    "id": "19c8159b-5a71-47da-9941-c56afcaeb536",
+    "name": "discontented",
+    "description": "dissatisfied with your circumstances",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "455ebcfe-4e60-4204-8b5a-49f1fa7e813f": {
+    "id": "455ebcfe-4e60-4204-8b5a-49f1fa7e813f",
+    "name": "disenchanted",
+    "description": "feeling let down by someone or something you once admired",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "e7732c4b-32ef-41d3-a638-7365b9182611": {
+    "id": "e7732c4b-32ef-41d3-a638-7365b9182611",
+    "name": "disgraced",
+    "description": "suffering from a loss of a good reputation",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "90498671-6fd2-4aa6-8f4d-5241f18395a6": {
+    "id": "90498671-6fd2-4aa6-8f4d-5241f18395a6",
+    "name": "disgruntled",
+    "description": "feeling annoyed and disappointed",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "8b6ede15-10c1-4aa5-b23c-aab4c9edd562": {
+    "id": "8b6ede15-10c1-4aa5-b23c-aab4c9edd562",
+    "name": "disillusioned",
+    "description": "disappointed in someone who has not lived up to your belief in them",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "5556d50f-25f3-40b1-b584-09a379a4f6cb": {
+    "id": "5556d50f-25f3-40b1-b584-09a379a4f6cb",
+    "name": "dispirited",
+    "description": "having lost enthusiasm and hope",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "fc5b25a1-d0bd-45af-bf00-b40f7a3d95c0": {
+    "id": "fc5b25a1-d0bd-45af-bf00-b40f7a3d95c0",
+    "name": "disrespected",
+    "description": "not being treated as if your ideas and feelings matter",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "f65c5e1e-b960-4c97-b72f-c258fcf4597e": {
+    "id": "f65c5e1e-b960-4c97-b72f-c258fcf4597e",
+    "name": "dissatisfied",
+    "description": "unhappy with someone or something",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "5472299d-7b9d-4a06-aae0-dd68c94c946e": {
+    "id": "5472299d-7b9d-4a06-aae0-dd68c94c946e",
+    "name": "empty",
+    "description": "lacking meaning or connection",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "35697d44-3aa1-4a0f-86ad-96d120738f68": {
+    "id": "35697d44-3aa1-4a0f-86ad-96d120738f68",
+    "name": "gaslit",
+    "description": "feeling manipulated by someone second guessing your reality",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "e3673f0a-f4ab-4cfa-adc3-b1a94e5efc26": {
+    "id": "e3673f0a-f4ab-4cfa-adc3-b1a94e5efc26",
+    "name": "ghosted",
+    "description": "being cut off from all communication without explanation",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "b0e5c59b-ffd9-462c-8750-d73433e6b9ff": {
+    "id": "b0e5c59b-ffd9-462c-8750-d73433e6b9ff",
+    "name": "grief",
+    "description": "experiencing distress when losing someone or something important",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "c520da2b-610e-4541-8934-b55685c988a4": {
+    "id": "c520da2b-610e-4541-8934-b55685c988a4",
+    "name": "heartbroken",
+    "description": "suffering from overwhelming distress usually when losing a relationship",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "88b242cd-381c-4ce5-b268-e795df6de54d": {
+    "id": "88b242cd-381c-4ce5-b268-e795df6de54d",
+    "name": "hollow",
+    "description": "feeling that something is missing",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "e94e08dc-526c-4610-a158-64b3ca43d6d7": {
+    "id": "e94e08dc-526c-4610-a158-64b3ca43d6d7",
+    "name": "homesick",
+    "description": "longing for a familiarity of home when away",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "402cf2f7-b775-4a62-98bf-e6828b0ccc44": {
+    "id": "402cf2f7-b775-4a62-98bf-e6828b0ccc44",
+    "name": "inadequate",
+    "description": "feeling that who you are is insufficient or lacking in some way",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "d00f9311-7b74-472a-a9fd-e106ab1d327b": {
+    "id": "d00f9311-7b74-472a-a9fd-e106ab1d327b",
+    "name": "indifferent",
+    "description": "not caring or interested",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "35d81382-041c-42bb-8969-eb8bf5b82c0a": {
+    "id": "35d81382-041c-42bb-8969-eb8bf5b82c0a",
+    "name": "invalidated",
+    "description": "feeling like you or your opinions were wiped away",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "ba005a4d-f523-41fc-b6c7-683e297125a8": {
+    "id": "ba005a4d-f523-41fc-b6c7-683e297125a8",
+    "name": "jilted",
+    "description": "feeling deeply rejected after being suddenly left by a romantic partner",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "228539f1-de45-45d4-a75b-29e3496c678c": {
+    "id": "228539f1-de45-45d4-a75b-29e3496c678c",
+    "name": "judged",
+    "description": "to feel the weight of someone's opinion and judgment of you",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "93e1743e-b3b2-48a6-88c4-79c14c29f328": {
+    "id": "93e1743e-b3b2-48a6-88c4-79c14c29f328",
+    "name": "letdown",
+    "description": "feeling when someone or something you were counting on does not come through",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "3b2d2301-c039-49e9-b2f8-a80effbf1729": {
+    "id": "3b2d2301-c039-49e9-b2f8-a80effbf1729",
+    "name": "longing",
+    "description": "strong, persistent desire; especially for something distant or unattainable",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "1bd1cb56-9355-48c2-a1df-01bbac0cc433": {
+    "id": "1bd1cb56-9355-48c2-a1df-01bbac0cc433",
+    "name": "malaised",
+    "description": "being uneasy and unsettled without real explanation",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "19e22f03-d0ad-4123-882f-07f5ee64881a": {
+    "id": "19e22f03-d0ad-4123-882f-07f5ee64881a",
+    "name": "melancholic",
+    "description": "feeling low-grade sadness for a while",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "0f396844-47e8-4566-b5ff-5f4b1ded51bd": {
+    "id": "0f396844-47e8-4566-b5ff-5f4b1ded51bd",
+    "name": "minimized",
+    "description": "feeling diminished or less than others by someone's words or actions",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "b211b726-bec2-441d-925e-5b9c1b8d69df": {
+    "id": "b211b726-bec2-441d-925e-5b9c1b8d69df",
+    "name": "neglected",
+    "description": "not getting enough care or attention",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "3af26c21-6e76-4ec9-aeda-cb1f42863f3f": {
+    "id": "3af26c21-6e76-4ec9-aeda-cb1f42863f3f",
+    "name": "regretful",
+    "description": "feeling bad when you do something that you wish you hadn't",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "1361e19b-75af-4a9b-9c09-31825a71afaf": {
+    "id": "1361e19b-75af-4a9b-9c09-31825a71afaf",
+    "name": "rejected",
+    "description": "feeling not wanted or accepted",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "198c955c-5d89-4dc3-a37b-4074cf6e8222": {
+    "id": "198c955c-5d89-4dc3-a37b-4074cf6e8222",
+    "name": "remorseful",
+    "description": "feeling sorry about something wrong you have done",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "75a90c8f-8ade-46ef-97cb-1c045c5999fd": {
+    "id": "75a90c8f-8ade-46ef-97cb-1c045c5999fd",
+    "name": "resentful",
+    "description": "feeling bitter or angry about something you think is unfair",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "1dca049c-483d-4ffd-9ed8-5dcb8f9544d8": {
+    "id": "1dca049c-483d-4ffd-9ed8-5dcb8f9544d8",
+    "name": "resigned",
+    "description": "accepting something unpleasant that one does not have control over",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "ee7cee6c-88e3-4652-b9f0-0237bb019f45": {
+    "id": "ee7cee6c-88e3-4652-b9f0-0237bb019f45",
+    "name": "sorrowful",
+    "description": "full of intense sadness",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "f1379b1d-e710-4b97-872f-204244dce71f": {
+    "id": "f1379b1d-e710-4b97-872f-204244dce71f",
+    "name": "turned off",
+    "description": "shutting down interest in someone because they have done something unacceptable",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "0ea5e164-0789-4e28-8e76-6ba7aa40cf93": {
+    "id": "0ea5e164-0789-4e28-8e76-6ba7aa40cf93",
+    "name": "unappreciated",
+    "description": "not being given thanks or gratitude you think you deserve",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "33fcad0c-d36e-4cf9-b4e6-6ce66a3a8f07": {
+    "id": "33fcad0c-d36e-4cf9-b4e6-6ce66a3a8f07",
+    "name": "undervalued",
+    "description": "feeling not being appreciated enough",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "5bced106-e4ad-40c0-a633-f15070468e14": {
+    "id": "5bced106-e4ad-40c0-a633-f15070468e14",
+    "name": "unhappy",
+    "description": "generalized feeling of unpleasantness or displeasure with someone/something, often in combination with disappointment or sadness",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "1d6cf917-63a2-4c73-9863-6f45926ed018": {
+    "id": "1d6cf917-63a2-4c73-9863-6f45926ed018",
+    "name": "unseen",
+    "description": "feeling not noticed or invisible to others",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "39922332-f2d6-4680-be86-5a534eb5d705": {
+    "id": "39922332-f2d6-4680-be86-5a534eb5d705",
+    "name": "weary",
+    "description": "tired, lacking spirit and strength to push forward",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "6660af5c-3ad1-4c1d-88c2-a0952be41b25": {
+    "id": "6660af5c-3ad1-4c1d-88c2-a0952be41b25",
+    "name": "wistful",
+    "description": "desire, with a trace of sadness",
+    "tile": {
+      "y": 6,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "59a06977-dffe-4a4a-9201-096958f15b0b": {
+    "id": "59a06977-dffe-4a4a-9201-096958f15b0b",
+    "name": "flabbergasted",
+    "description": "feeling intense surprise or shock",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "0a90ab3b-93af-4638-bf84-23e35707a46d": {
+    "id": "0a90ab3b-93af-4638-bf84-23e35707a46d",
+    "name": "irritable",
+    "description": "feeling easily bothered or angered",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "d5fdd33a-c0a6-4a8d-a6f2-62f94975a70b": {
+    "id": "d5fdd33a-c0a6-4a8d-a6f2-62f94975a70b",
+    "name": "irked",
+    "description": "feeling leery and impatient",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "f7c2d602-0a4e-48b1-9e6a-ca305bcb54d9": {
+    "id": "f7c2d602-0a4e-48b1-9e6a-ca305bcb54d9",
+    "name": "obsessed",
+    "description": "preoccupied or haunted by an idea or interest",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "f447ecd0-bba0-48a4-a1fb-d4c150376b83": {
+    "id": "f447ecd0-bba0-48a4-a1fb-d4c150376b83",
+    "name": "discombobulated",
+    "description": "thrown into a state of confusion or uncertainty",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "f9fa25e4-68a4-434e-9894-faba219e849f": {
+    "id": "f9fa25e4-68a4-434e-9894-faba219e849f",
+    "name": "triggered",
+    "description": "feeling set off or activated by something",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "502f0851-61ca-4e52-892a-77ceda875034": {
+    "id": "502f0851-61ca-4e52-892a-77ceda875034",
+    "name": "distracted",
+    "description": "feeling diverted or far away from the present focus",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "4e335d05-fd57-4839-9cfa-2229f874658d": {
+    "id": "4e335d05-fd57-4839-9cfa-2229f874658d",
+    "name": "conflicted",
+    "description": "having mutually inconsistent feelings about something",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "2ea4a6fa-fb6b-42dd-861c-643ab154e162": {
+    "id": "2ea4a6fa-fb6b-42dd-861c-643ab154e162",
+    "name": "ambivalent",
+    "description": "having contradictory attitudes or feelings about something",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "86494f9e-2a35-4808-846f-e93575a52519": {
+    "id": "86494f9e-2a35-4808-846f-e93575a52519",
+    "name": "indecisive",
+    "description": "feeling unable to make a decision due to conflicting emotions",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "36b7508d-668e-45c2-a435-668a5cbce4e1": {
+    "id": "36b7508d-668e-45c2-a435-668a5cbce4e1",
+    "name": "unstable",
+    "description": "feeling unbalanced and unsteady",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "c483d491-72d0-49f1-8383-de4845fccb49": {
+    "id": "c483d491-72d0-49f1-8383-de4845fccb49",
+    "name": "dysregulated",
+    "description": "feeling you can't steady your emotions",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "084eb227-1bba-4592-af5c-6b8fd2a17b2e": {
+    "id": "084eb227-1bba-4592-af5c-6b8fd2a17b2e",
+    "name": "foolish",
+    "description": "feeling self-conscious after doing something unwise",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "c38b4238-00ef-4fae-9b73-7bac6599baad": {
+    "id": "c38b4238-00ef-4fae-9b73-7bac6599baad",
+    "name": "vengeful",
+    "description": "a desire to harm someone because of a perceived injustice",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "ec8a273f-f30f-4c1e-91df-43b09860b0df": {
+    "id": "ec8a273f-f30f-4c1e-91df-43b09860b0df",
+    "name": "spiteful",
+    "description": "a desire to infuriate someone to get back at them",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "3c37fc64-40d6-44e9-b458-8c43775c2429": {
+    "id": "3c37fc64-40d6-44e9-b458-8c43775c2429",
+    "name": "frazzled",
+    "description": "feeling exhausted, disorganized, and emotionally frayed",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "544aef1a-3aa0-48f3-8feb-cfff6c233816": {
+    "id": "544aef1a-3aa0-48f3-8feb-cfff6c233816",
+    "name": "frozen",
+    "description": "feeling you cannot act due to overwhelming anxiety or fear",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "a0c406f8-7d1d-443e-8a47-8b45d34b5b81": {
+    "id": "a0c406f8-7d1d-443e-8a47-8b45d34b5b81",
+    "name": "displeased",
+    "description": "feeling unhappy, dissatisfied, or disapproving",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  },
+  "5d532fff-bd95-4326-9bb1-54452fde3789": {
+    "id": "5d532fff-bd95-4326-9bb1-54452fde3789",
+    "name": "glad",
+    "description": "feeling pleased, satisfied, or grateful",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "03fc8978-15e8-4b5b-8ca3-14658ca5d975": {
+    "id": "03fc8978-15e8-4b5b-8ca3-14658ca5d975",
+    "name": "adoring",
+    "description": "feeling a deep love or respect for something or someone",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "98954970-f94b-4d43-be19-09a934392307": {
+    "id": "98954970-f94b-4d43-be19-09a934392307",
+    "name": "infatuated",
+    "description": "having intense interest in someone or something at the beginning of a relationship; this feeling will grow into love or dissipate over time",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "f0f9d079-d00c-4a09-ba1f-766210dacaa8": {
+    "id": "f0f9d079-d00c-4a09-ba1f-766210dacaa8",
+    "name": "in love",
+    "description": "feeling a strong emotional attachment, often romantic and sexual",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "18a283b0-0011-45de-9f44-e1a09e807f9f": {
+    "id": "18a283b0-0011-45de-9f44-e1a09e807f9f",
+    "name": "goofy",
+    "description": "feeling silly and playful",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "a1c941c8-ebba-4224-af51-9eeebe406bab": {
+    "id": "a1c941c8-ebba-4224-af51-9eeebe406bab",
+    "name": "silly",
+    "description": "feeling a bit foolish",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "4a36d732-5a4f-4c31-ab3f-8b72dc6eecb8": {
+    "id": "4a36d732-5a4f-4c31-ab3f-8b72dc6eecb8",
+    "name": "romantic",
+    "description": "having the desire to express affection and connection with someone in a special way",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "c640dc73-f6c8-4294-88f5-91c14886a282": {
+    "id": "c640dc73-f6c8-4294-88f5-91c14886a282",
+    "name": "reinvigorated",
+    "description": "feeling renewed energy",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "064929d6-117b-4b51-a45c-f7556db9ab98": {
+    "id": "064929d6-117b-4b51-a45c-f7556db9ab98",
+    "name": "chatty",
+    "description": "feeling like talking in a friendly, informal way",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "582d7dbf-6a7e-4716-93f8-ff3185d7d5b0": {
+    "id": "582d7dbf-6a7e-4716-93f8-ff3185d7d5b0",
+    "name": "encouraged",
+    "description": "feeling supported and hopeful with a sense of increasing confidence",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "fdd18731-be9a-488e-a9fb-e33daab2b27d": {
+    "id": "fdd18731-be9a-488e-a9fb-e33daab2b27d",
+    "name": "talkative",
+    "description": "having the desire to express thoughts and opinions in a conversation",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": 1
+  },
+  "7a81c0a1-50f5-417a-b406-e55b9dd111d8": {
+    "id": "7a81c0a1-50f5-417a-b406-e55b9dd111d8",
+    "name": "sensual",
+    "description": "feeling open to touch and sensory experience that brings physical pleasure",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "f5247c40-ffb8-4b74-ad77-61f1b916004d": {
+    "id": "f5247c40-ffb8-4b74-ad77-61f1b916004d",
+    "name": "ok",
+    "description": "an understated feeling of wellbeing that is satisfactory but not exceptional or intense",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "298eec17-7c90-41cf-b125-62c89d47016b": {
+    "id": "298eec17-7c90-41cf-b125-62c89d47016b",
+    "name": "refreshed",
+    "description": "feeling renewed, rested, and like your strength is restored",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "d88c9316-19e5-4d5f-a3b7-94a6a3372ec6": {
+    "id": "d88c9316-19e5-4d5f-a3b7-94a6a3372ec6",
+    "name": "clear",
+    "description": "the feeling that you can perceive, understand, or interpret events or situations you are facing",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "3cadfa6d-ed33-495a-bc26-c087b5a2eb60": {
+    "id": "3cadfa6d-ed33-495a-bc26-c087b5a2eb60",
+    "name": "rejuvenated",
+    "description": "feeling revitalized, like your strength and energy are fully restored",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "8c5e87b7-074a-4254-b0f1-e562eb75c068": {
+    "id": "8c5e87b7-074a-4254-b0f1-e562eb75c068",
+    "name": "stable",
+    "description": "having the sense you are in control and not easily upset or disturbed",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "692a2d0d-68f4-4e18-ad64-8cb62e4a72f7": {
+    "id": "692a2d0d-68f4-4e18-ad64-8cb62e4a72f7",
+    "name": "whole",
+    "description": "feeling inner fullness and a sense of wellbeing",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "5e0b7f8d-197b-47b2-8c9d-18601acb4420": {
+    "id": "5e0b7f8d-197b-47b2-8c9d-18601acb4420",
+    "name": "zen",
+    "description": "a casual way to describe the feeling of being fully present and calm",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "1896ee8f-c9e9-4edf-be6c-b8a3f759d8a2": {
+    "id": "1896ee8f-c9e9-4edf-be6c-b8a3f759d8a2",
+    "name": "unbothered",
+    "description": "the sense you can manage your emotions in the midst of challenges and won't be thrown off by the events around you",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "c7ffed92-d4ba-40a1-b53e-0222c0380151": {
+    "id": "c7ffed92-d4ba-40a1-b53e-0222c0380151",
+    "name": "copacetic",
+    "description": "feeling agreeable and free of problems",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "24f19851-7b4d-4011-bf22-36df389a5917": {
+    "id": "24f19851-7b4d-4011-bf22-36df389a5917",
+    "name": "contemplative",
+    "description": "a reflective and thoughtful state, usually for a prolonged time",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "586a9345-ce0e-4e13-9831-1bbaf6bf60f6": {
+    "id": "586a9345-ce0e-4e13-9831-1bbaf6bf60f6",
+    "name": "imperturbable",
+    "description": "feeling in control of yourself and the situation, composed and unruffled",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "013dd0d0-9429-48af-87fc-ebfdf2a85558": {
+    "id": "013dd0d0-9429-48af-87fc-ebfdf2a85558",
+    "name": "grounded",
+    "description": "mentally and emotionally stable, as if you are realistically assessing the moment",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "46be7a5e-6d03-4552-a6ca-560614c9e946": {
+    "id": "46be7a5e-6d03-4552-a6ca-560614c9e946",
+    "name": "present",
+    "description": "being fully aware of the moment and free of internal noise",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "dfed733e-229c-443a-a355-0d3409cab04e": {
+    "id": "dfed733e-229c-443a-a355-0d3409cab04e",
+    "name": "protective",
+    "description": "feeling the need to keep someone or something safe from harm",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": 1,
+    "energy": -1
+  },
+  "9e391d44-1064-4e6c-b077-7b0b91264217": {
+    "id": "9e391d44-1064-4e6c-b077-7b0b91264217",
+    "name": "avoidant",
+    "description": "unwilling to face or engage with someone or something",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "31332cd0-a776-4272-be15-118fee0c8e1c": {
+    "id": "31332cd0-a776-4272-be15-118fee0c8e1c",
+    "name": "lazy",
+    "description": "lacking the motivation to invest energy and take action",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "c1038408-c1c4-4d0d-a98d-3b36243d9ebf": {
+    "id": "c1038408-c1c4-4d0d-a98d-3b36243d9ebf",
+    "name": "lovesick",
+    "description": "daydreaming about or missing someone you love",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "d028194c-8e3b-4e26-8a8f-90482a9a31f9": {
+    "id": "d028194c-8e3b-4e26-8a8f-90482a9a31f9",
+    "name": "solemn",
+    "description": "feeling serious with a tinge of sadness",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "eb87e3d5-ef66-4229-a960-d8bdddbefd7a": {
+    "id": "eb87e3d5-ef66-4229-a960-d8bdddbefd7a",
+    "name": "hesitant",
+    "description": "unsure or slow in thinking, acting, or speaking",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "359cf206-019d-4b54-bf8e-98c25da5966f": {
+    "id": "359cf206-019d-4b54-bf8e-98c25da5966f",
+    "name": "burdened",
+    "description": "feeling encumbered by and responsible for something or someone",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "8df94bfa-fb9e-4f4d-b56c-acf6460a910e": {
+    "id": "8df94bfa-fb9e-4f4d-b56c-acf6460a910e",
+    "name": "brooding",
+    "description": "preoccupied with depressing or painful thoughts",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "92fea3d8-d793-4171-8c05-61f2d78d2450": {
+    "id": "92fea3d8-d793-4171-8c05-61f2d78d2450",
+    "name": "stuck",
+    "description": "feeling trapped, blocked, or unable to make progress in a situation or relationship",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "7ff08a9e-24ae-4f66-aadd-b270f21ab505": {
+    "id": "7ff08a9e-24ae-4f66-aadd-b270f21ab505",
+    "name": "suffocated",
+    "description": "feeling trapped or oppressed, as if you cannot breathe",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "ed441966-8f01-4674-b8b7-7333e4ce93f0": {
+    "id": "ed441966-8f01-4674-b8b7-7333e4ce93f0",
+    "name": "welp",
+    "description": "a casual way to describe feeling disappointed with resigned acceptance",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "ec1b8b51-dcd4-4021-a531-9b728265e040": {
+    "id": "ec1b8b51-dcd4-4021-a531-9b728265e040",
+    "name": "hurting",
+    "description": "experiencing physical or emotional pain",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "c9b70a78-b10f-470c-942b-28d53c711f48": {
+    "id": "c9b70a78-b10f-470c-942b-28d53c711f48",
+    "name": "unmotivated",
+    "description": "lacking drive or enthusiasm for something, particularly work or study",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "55357b8c-30a5-41c0-bba9-2ef166283a9a": {
+    "id": "55357b8c-30a5-41c0-bba9-2ef166283a9a",
+    "name": "poopy",
+    "description": "a casual way to describe feeling unpleasant or unwell",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "f383cfd5-fa2a-4013-93c6-7cee8b65fe8c": {
+    "id": "f383cfd5-fa2a-4013-93c6-7cee8b65fe8c",
+    "name": "groggy",
+    "description": "sleepy, drowsy, confused, and slow to react",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "cba013e9-a42e-49b5-bc06-4e68e5bc4aab": {
+    "id": "cba013e9-a42e-49b5-bc06-4e68e5bc4aab",
+    "name": "bleh",
+    "description": "feeling indifference or mild discomfort",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "31af2bfb-22b5-428d-abd9-de6ebf1fe2e3": {
+    "id": "31af2bfb-22b5-428d-abd9-de6ebf1fe2e3",
+    "name": "deficient",
+    "description": "feeling inadequate or like you lack a desired quality",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "e5a2b42d-49e3-4530-ad18-969bbc7943b6": {
+    "id": "e5a2b42d-49e3-4530-ad18-969bbc7943b6",
+    "name": "pathetic",
+    "description": "feeling miserably inadequate",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "10985f61-fda7-4968-a77a-d71020356946": {
+    "id": "10985f61-fda7-4968-a77a-d71020356946",
+    "name": "painful",
+    "description": "experiencing distress or feeling hurt",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "8491e949-99e4-43b7-9237-cce591d3e4df": {
+    "id": "8491e949-99e4-43b7-9237-cce591d3e4df",
+    "name": "defeated",
+    "description": "feeling  demoralized or overcome by adversity",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "607bb0de-a4a7-43b6-ac56-4cd7a4088ab2": {
+    "id": "607bb0de-a4a7-43b6-ac56-4cd7a4088ab2",
+    "name": "incompetent",
+    "description": "feeling you do not have what it takes to accomplish a task",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "3296c187-9840-4e2d-9553-dd038d0912fe": {
+    "id": "3296c187-9840-4e2d-9553-dd038d0912fe",
+    "name": "worthless",
+    "description": "feeling you have no real value and are not deserving",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "93f96040-35c7-4058-a798-f0b35ba116e7": {
+    "id": "93f96040-35c7-4058-a798-f0b35ba116e7",
+    "name": "blue",
+    "description": "feeling sad, gloom, or dispirited",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "da98b7e4-e97a-48d1-948a-80aabc15f7f8": {
+    "id": "da98b7e4-e97a-48d1-948a-80aabc15f7f8",
+    "name": "dead inside",
+    "description": "depressed to the point of feeling you've lost your spirit or soul",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "723c062d-6c35-4a62-91f5-f1f40b1f0713": {
+    "id": "723c062d-6c35-4a62-91f5-f1f40b1f0713",
+    "name": "icky",
+    "description": "feeling something is distasteful or disgusting",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "681a07ea-a1ba-44b9-906a-feda2b5007f7": {
+    "id": "681a07ea-a1ba-44b9-906a-feda2b5007f7",
+    "name": "uncomfortable",
+    "description": "feeling of unease related to uncertainty",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": -1
+  },
+  "0b4a0c76-39fc-412d-bfcf-b315bcf0b794": {
+    "id": "0b4a0c76-39fc-412d-bfcf-b315bcf0b794",
+    "name": "rushed",
+    "description": "feeling pressured to move or do something quickly",
+    "tile": {
+      "y": 0,
+      "x": 0
+    },
+    "pleasantness": -1,
+    "energy": 1
+  }
+}
