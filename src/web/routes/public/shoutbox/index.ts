@@ -73,7 +73,7 @@ shoutboxRouter.openapi(createRoute({
     const forwardedFor = c.req.header('x-forwarded-for')?.split(',')
     const realIp = forwardedFor?.[forwardedFor.length - 1] ?? c.req.header('x-real-ip')
 
-    await ShoutboxService.addMessage(c.req.valid('json').content, realIp)
+    await ShoutboxService.addMessage(c.req.valid('json').content, realIp, c.req.header('User-Agent'))
 
     return new Response(null, { status: 201 })
   }

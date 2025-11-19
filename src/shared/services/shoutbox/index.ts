@@ -31,7 +31,7 @@ export class ShoutboxService {
     }
   }
 
-  static async addMessage(content: string, ipAddress?: string) {
+  static async addMessage(content: string, ipAddress?: string, userAgent?: string) {
     const [message] = await database
       .insert(shoutboxMessages)
       .values({
@@ -45,6 +45,7 @@ export class ShoutboxService {
         text: format`
           ${bold('New shoutbox message')}
           ${bold('Sender:')} ${code(ipAddress ?? 'unknown')}
+          ${bold('User Agent:')} ${code(userAgent ?? 'unknown')}
 
           ${bold('Content:')}
           ${blockquote(content)}
