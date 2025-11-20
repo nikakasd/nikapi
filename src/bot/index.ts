@@ -1,10 +1,29 @@
 import { Bot } from 'gramio'
 import env from '@/shared/env.js'
 import { ShoutboxService } from '@/shared/services/shoutbox/index.js'
+import { StatusService } from '@/shared/services/status/index.js'
 import { moderationCallbackData } from './callback-query.js'
 
 export const bot = new Bot(env.bot.token)
 export type BotType = typeof bot
+
+bot.command('status', (ctx) => {
+  if (ctx.chatId !== env.bot.chatId)
+    return
+
+  if (!ctx.args) {
+    return ctx.reply('Please provide a new status')
+  }
+
+  setImmediate(() => {
+    StatusService.set({
+      status: ctx.args!,
+      icon: null,
+    })
+  })
+
+  return ctx.reply('Status updated')
+})
 
 bot.on('message', async (ctx) => {
   if (!ctx.hasReplyMessage() || ctx.chatId !== env.bot.chatId)
