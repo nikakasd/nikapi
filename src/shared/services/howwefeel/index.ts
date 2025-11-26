@@ -119,7 +119,12 @@ export class HowWeFeelService {
       .map(group => group.checkIns[this.options.userId])
       .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
 
-    return myCheckins[0] ?? null
+    const latestCheckin = myCheckins[0]
+    if (latestCheckin && latestCheckin.tags.includes('Private')) {
+      return null
+    }
+
+    return latestCheckin
   }
 
   async refreshAccessToken() {
